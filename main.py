@@ -6,8 +6,8 @@ import requests
 
 
 temperature_kharkov = []
-openweather_api_key = os.environ.get('OPENWEATHER_API_KEY)')
-weatherstack_api_key = os.environ.get('WEATHERSTACK_API_KEY)')
+openweather_api_key = os.environ.get('OPENWEATHER_API_KEY')
+weatherstack_api_key = os.environ.get('WEATHERSTACK_API_KEY')
 
 
 async def main():
